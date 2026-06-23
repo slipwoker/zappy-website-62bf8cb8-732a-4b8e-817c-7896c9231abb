@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-62bf8cb8.zappy5.app
+https://example.com
 משרד עורכי דין בחיפה המתמחה בדיני משפחה, צוואות, ירושות, יפויי כח מתמשך וזכויות חיילים ונכי צה&quot;ל. ליווי אישי ורגיש גם בוואטסאפ. התקשרו עוד היום לייעוץ ראשוני.
 
 ### תחומי עיסוק
-https://-62bf8cb8.zappy5.app/practice-areas
+https://example.com/practice-areas
 מחפשים עורך דין לצוואה, לירושה או ליפויי כח מתמשך? מתמודדים עם גירושין או פגיעה בצבא? גלו את כל תחומי העיסוק שלנו וקבלו ייצוג משפטי שמבין אתכם לעומק.
 
 ### אודות
-https://-62bf8cb8.zappy5.app/about
+https://example.com/about
 אבי בן דוד, עורך דין משפחה בחיפה, מביא ניסיון עשיר ויחס אישי לכל תיק. מתמחה במעמד אישי, צוואות וייצוג חיילים. הכירו את האדם שיילחם בשבילכם.
 
 ### צור קשר
-https://-62bf8cb8.zappy5.app/contact
+https://example.com/contact
 צריכים ייעוץ משפטי דחוף? משרדנו בשד&#39; ההסתדרות 66 בחיפה זמין עבורכם בטלפון, בוואטסאפ ובמייל. השאירו פרטים ונתחיל לבנות את ההגנה המשפטית שלכם.
 
 ### תודה על פנייתך | אבי בן דוד, עו"ד
-https://-62bf8cb8.zappy5.app/thank-you
+https://example.com/thank-you
 אבי בן דוד, עו"ד - תודה על פנייתך | אבי בן דוד, עו"ד
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-62bf8cb8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-62bf8cb8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-62bf8cb8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-62bf8cb8.zappy5.app/contact
-- Endpoint: https://-62bf8cb8.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-62bf8cb8.zappy5.app/sitemap.xml
-- Robots: https://-62bf8cb8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-62bf8cb8.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
