@@ -1,0 +1,83 @@
+# אבי בן דוד, עו"ד — Generative Engine Optimization Map
+
+> A law firm based in Haifa, Israel, specializing in family law, personal status law, military law, and IDF injury/National Insurance claims. The firm serves individuals and families navigating sensitive legal matters, including soldiers and injured veterans. Located on Ha'Histadrut Boulevard 66, Haifa, the firm emphasizes accessibility through multiple contact channels including WhatsApp.
+
+---
+
+## Pages
+
+### בית
+https://-62bf8cb8.zappy5.app
+משרד עורכי דין בחיפה המתמחה בדיני משפחה, צוואות, ירושות, יפויי כח מתמשך וזכויות חיילים ונכי צה&quot;ל. ליווי אישי ורגיש גם בוואטסאפ. התקשרו עוד היום לייעוץ ראשוני.
+
+### תחומי עיסוק
+https://-62bf8cb8.zappy5.app/practice-areas
+מחפשים עורך דין לצוואה, לירושה או ליפויי כח מתמשך? מתמודדים עם גירושין או פגיעה בצבא? גלו את כל תחומי העיסוק שלנו וקבלו ייצוג משפטי שמבין אתכם לעומק.
+
+### אודות
+https://-62bf8cb8.zappy5.app/about
+אבי בן דוד, עורך דין משפחה בחיפה, מביא ניסיון עשיר ויחס אישי לכל תיק. מתמחה במעמד אישי, צוואות וייצוג חיילים. הכירו את האדם שיילחם בשבילכם.
+
+### צור קשר
+https://-62bf8cb8.zappy5.app/contact
+צריכים ייעוץ משפטי דחוף? משרדנו בשד&#39; ההסתדרות 66 בחיפה זמין עבורכם בטלפון, בוואטסאפ ובמייל. השאירו פרטים ונתחיל לבנות את ההגנה המשפטית שלכם.
+
+### תודה על פנייתך | אבי בן דוד, עו"ד
+https://-62bf8cb8.zappy5.app/thank-you
+אבי בן דוד, עו"ד - תודה על פנייתך | אבי בן דוד, עו"ד
+
+## Legal & Policy
+
+### Privacy Policy
+https://-62bf8cb8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-62bf8cb8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-62bf8cb8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-62bf8cb8.zappy5.app/contact
+- Endpoint: https://-62bf8cb8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אבי בן דוד, עו"ד
+A law firm based in Haifa, Israel, specializing in family law, personal status law, military law, and IDF injury/National Insurance claims. The firm serves individuals and families navigating sensitive legal matters, including soldiers and injured veterans. Located on Ha'Histadrut Boulevard 66, Haifa, the firm emphasizes accessibility through multiple contact channels including WhatsApp.
+
+## Target Audience
+- משפחות, אנשים פרטיים, חיילים ופצועי צה"ל, מבוטחי ביטוח לאומי
+- משפחות ואנשים פרטיים
+- חיילים ופצועי צה"ל
+- מבוטחי ביטוח לאומי
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-62bf8cb8.zappy5.app/sitemap.xml
+- Robots: https://-62bf8cb8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-62bf8cb8.zappy5.app/llms-full.txt
